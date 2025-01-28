@@ -15,7 +15,7 @@ import io.jsonwebtoken.security.Keys;
 import lombok.extern.slf4j.Slf4j;
 
  /*
-  * 1. JWT 문자열 생셩 (토큰 생성)
+  * 1. JWT 문자열 생성(토큰 생성)
   * 2. 토큰 검증
   * 3. 반드시 키 값은 반드시 30자 이상 사용할 것 
   # 4. 반드시 jjwt library 0.11.5 version 사용할 것
